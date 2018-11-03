@@ -1,3 +1,5 @@
+TODO: create README for RHM in addition to this README for bilingual_graph
+
 # Organizing Bilingual Coactivations
 The bilingual_graph program allows the user to organize and store words of a bilingual lexicon in a graph based on their coactivations. These coactivations are determined by measuring the Euclidean distance between semantic vectors of a given lexicon to determine their nearest neighbors.
 ###### A visual of a bilingual graph for the concept "cat".
